@@ -1,0 +1,18 @@
+Question1 = input('What is your name? ')
+print('''
+
+''')
+Question2 = input('How has your NextGen Experience Been? ')
+
+Question3 = input('Will you carry on coding in the future? ')
+print('''
+
+''')
+
+print(f'''
+
+We just interviewed {Question1},
+here he told us about his experiences during the NextGen Program,
+{Question1} told us that he has had a {Question2} experience and he said {Question3}, he we would continue coding in the future
+
+Thank you for answering our questionnaire {Question1}, we look forward to meeting you more.''')
